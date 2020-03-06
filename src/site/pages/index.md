@@ -4,8 +4,8 @@ hideTOC: true
 ---
 import quickRefPdf from './reference-docs/PF-quick-ref.pdf';
 
-<div style={{ height: '70vh' }}>
-Just getting started? Take a look at the <a href="/contribution">Contribution guide</a> and <a href="/guidelines">Coding guidelines.</a>
+<div className="pf-c-content">
+<p>Just getting started? Take a look at the <a href="/contribution">Contribution guide</a> and <a href="/guidelines">Coding guidelines.</a></p>
 
 Always keep our <a href="/accessibility-guide">Accessibility guide</a> in mind.
 
